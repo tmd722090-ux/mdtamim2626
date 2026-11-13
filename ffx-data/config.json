@@ -147,6 +147,40 @@
           "price": 206
         }
       ]
+    },
+    "lu": {
+      "packages": [
+        {
+          "label": "Level Up Package - Level 6",
+          "name": "Level Up Package - Level 6",
+          "price": 45
+        },
+        {
+          "label": "Level Up Package - Level 10",
+          "name": "Level Up Package - Level 10",
+          "price": 76
+        },
+        {
+          "label": "Level Up Package - Level 15",
+          "name": "Level Up Package - Level 15",
+          "price": 78
+        },
+        {
+          "label": "Level Up Package - Level 20",
+          "name": "Level Up Package - Level 20",
+          "price": 78
+        },
+        {
+          "label": "Level Up Package - Level 25",
+          "name": "Level Up Package - Level 25",
+          "price": 78
+        },
+        {
+          "label": "Level Up Package - Level 30",
+          "name": "Level Up Package - Level 30",
+          "price": 110
+        }
+      ]
     }
   },
   "texts": null
