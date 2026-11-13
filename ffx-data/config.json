@@ -212,6 +212,60 @@
           "price": 1580
         }
       ]
+    },
+    "in": {
+      "packages": [
+        {
+          "label": "10 Diamond (Indo)",
+          "name": "10 Diamond (Indo)",
+          "price": 15
+        },
+        {
+          "label": "50Diamond (Indo)",
+          "name": "50Diamond (Indo)",
+          "price": 70
+        },
+        {
+          "label": "70 Diamond (Indo)",
+          "name": "70 Diamond (Indo)",
+          "price": 95
+        },
+        {
+          "label": "140 Diamond (Indo)",
+          "name": "140 Diamond (Indo)",
+          "price": 185
+        },
+        {
+          "label": "355 Diamond (Indo)",
+          "name": "355 Diamond (Indo)",
+          "price": 450
+        },
+        {
+          "label": "720 Diamond (Indo)",
+          "name": "720 Diamond (Indo)",
+          "price": 895
+        },
+        {
+          "label": "7290Diamond (Indo)",
+          "name": "7290Diamond (Indo)",
+          "price": 8810
+        },
+        {
+          "label": "Weekly (Indo)",
+          "name": "Weekly (Indo)",
+          "price": 260
+        },
+        {
+          "label": "Monthly (Indo)",
+          "name": "Monthly (Indo)",
+          "price": 885
+        },
+        {
+          "label": "BP card (Indo)",
+          "name": "BP card (Indo)",
+          "price": 424
+        }
+      ]
     }
   },
   "texts": null
