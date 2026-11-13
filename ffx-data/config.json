@@ -84,6 +84,45 @@
           "price": 6440
         }
       ]
+    },
+    "wm": {
+      "packages": [
+        {
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 156
+        },
+        {
+          "label": "2X WEEKLY",
+          "name": "2X WEEKLY",
+          "price": 315
+        },
+        {
+          "label": "3X WEEKLY",
+          "name": "3X WEEKLY",
+          "price": 470
+        },
+        {
+          "label": "MONTHLY",
+          "name": "MONTHLY",
+          "price": 772
+        },
+        {
+          "label": "2X MONTHLY",
+          "name": "2X MONTHLY",
+          "price": 1544
+        },
+        {
+          "label": "1X WEEKLY+1X MONTHLY",
+          "name": "1X WEEKLY+1X MONTHLY",
+          "price": 930
+        },
+        {
+          "label": "3X WEEKLY+1X MONTHLY",
+          "name": "3X WEEKLY+1X MONTHLY",
+          "price": 1240
+        }
+      ]
     }
   },
   "texts": null
